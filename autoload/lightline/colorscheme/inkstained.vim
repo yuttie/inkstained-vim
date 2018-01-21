@@ -22,28 +22,28 @@
 "     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 "     THE SOFTWARE.
 
-let s:base03        = ["#e4e2df", 255]  # DONE
-let s:base02       = ["#d6d4cf", 241]  # DONE
-let s:base01        = ["#c8c6c1", 252]  # DONE
-let s:base00      = ["#929cad", 238]  # DONE
-let s:base2       = ["#697383", 236]  # DONE
-let s:base3       = ["#555f6f", 235]  # DONE
-let s:red01        = ["#edb8c4",  52]  # DONE
-let s:red1         = ["#aa586e", 161]  # DONE
-let s:teal01       = ["#cfd9d9",  23]  # DONE
-let s:teal2        = ["#608f8e",  44]  # DONE
-let s:cyan01       = ["#cbd7dc",  23]  # DONE
-let s:cyan1        = ["#59899c",  38]  # DONE
-let s:cyan2        = ["#4e7e91",  81]  # DONE
+let s:base03        = ["#e4e2df", 255]  " DONE
+let s:base02       = ["#d6d4cf", 241]  " DONE
+let s:base01        = ["#c8c6c1", 252]  " DONE
+let s:base00      = ["#929cad", 238]  " DONE
+let s:base2       = ["#697383", 236]  " DONE
+let s:base3       = ["#555f6f", 235]  " DONE
+let s:red01        = ["#edb8c4",  52]  " DONE
+let s:red1         = ["#aa586e", 161]  " DONE
+let s:teal01       = ["#cfd9d9",  23]  " DONE
+let s:teal2        = ["#608f8e",  44]  " DONE
+let s:cyan01       = ["#cbd7dc",  23]  " DONE
+let s:cyan1        = ["#59899c",  38]  " DONE
+let s:cyan2        = ["#4e7e91",  81]  " DONE
 let s:cyan3        = ["#bcebfe", 153]
-let s:blue1        = ["#56759a",  68]  # DONE
-let s:blue2        = ['#6b89b0', 111]  # DONE
+let s:blue1        = ["#56759a",  68]  " DONE
+let s:blue2        = ['#6b89b0', 111]  " DONE
 let s:blue3        = ['#c9d4fd', 189]
-let s:violet1      = ["#7c6a93",  98]  # DONE
-let s:violet2      = ["#9784ae", 183]  # DONE
+let s:violet1      = ["#7c6a93",  98]  " DONE
+let s:violet2      = ["#9784ae", 183]  " DONE
 let s:violet3      = ["#e2ccfe", 225]
-let s:magenta01    = ["#d9d3d6",  89]  # DONE
-let s:magenta1     = ["#b778a0", 162]  # DONE
+let s:magenta01    = ["#d9d3d6",  89]  " DONE
+let s:magenta1     = ["#b778a0", 162]  " DONE
 let s:magenta2     = ["#fe7ecd", 213]
 let s:magenta3     = ["#ffc3e4", 218]
 
