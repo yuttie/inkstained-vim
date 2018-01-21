@@ -21,12 +21,12 @@ except ImportError:
 
 
 # Palette
-base03        = ("#e4e2df", 255)  # DONE
+base03       = ("#e4e2df", 255)  # DONE
 base02       = ("#d6d4cf", 241)  # DONE
-base01        = ("#c8c6c1", 252)  # DONE
-base00      = ("#929cad", 238)  # DONE
-base2       = ("#697383", 236)  # DONE
-base3       = ("#555f6f", 235)  # DONE
+base01       = ("#c8c6c1", 252)  # DONE
+base00       = ("#929cad", 238)  # DONE
+base2        = ("#697383", 236)  # DONE
+base3        = ("#555f6f", 235)  # DONE
 red01        = ("#edb8c4",  52)  # DONE
 red1         = ("#aa586e", 161)  # DONE
 teal01       = ("#cfd9d9",  23)  # DONE
@@ -34,17 +34,17 @@ teal2        = ("#608f8e",  44)  # DONE
 cyan01       = ("#cbd7dc",  23)  # DONE
 cyan1        = ("#59899c",  38)  # DONE
 cyan2        = ("#4e7e91",  81)  # DONE
-cyan3        = ("#bcebfe", 153)
+cyan3        = ("#7196a6", 153)  # DONE
 blue1        = ("#56759a",  68)  # DONE
 blue2        = ('#6b89b0', 111)  # DONE
-blue3        = ('#c9d4fd', 189)
+blue3        = ('#809ec6', 189)  # DONE
 violet1      = ("#7c6a93",  98)  # DONE
 violet2      = ("#9784ae", 183)  # DONE
-violet3      = ("#e2ccfe", 225)
+violet3      = ("#ac99c4", 225)  # DONE
 magenta01    = ("#d9d3d6",  89)  # DONE
 magenta1     = ("#b778a0", 162)  # DONE
-magenta2     = ("#fe7ecd", 213)
-magenta3     = ("#ffc3e4", 218)
+magenta2     = ("#ce9dbb", 213)  # DONE
+magenta3     = ("#dfb5ce", 218)  # DONE
 
 
 # Definitions
