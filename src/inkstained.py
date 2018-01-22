@@ -158,7 +158,7 @@ if exists('syntax_on')
 endif
 let g:colors_name = 'inkstained'
 
-set background=dark
+set background=light
 """)
 
 HI_ARGS = ['ctermfg', 'ctermbg', 'cterm', 'guifg', 'guibg', 'gui']

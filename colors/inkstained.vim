@@ -10,7 +10,7 @@ if exists('syntax_on')
 endif
 let g:colors_name = 'inkstained'
 
-set background=dark
+set background=light
 
 hi Normal ctermfg=243 ctermbg=254 guifg=#697383 guibg=#e4e2df
 hi Cursor ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#555f6f gui=NONE
