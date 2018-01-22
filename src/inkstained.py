@@ -1,3 +1,6 @@
+from collections import OrderedDict
+
+
 HEADER = """" Name:     inkstained.vim --- Inkstained theme for Vim
 " Author:   Yuta Taniguchi <yuta.taniguchi.y.t@gmail.com>
 " URL:      https://github.com/yuttie/inkstained-vim
@@ -5,8 +8,6 @@ HEADER = """" Name:     inkstained.vim --- Inkstained theme for Vim
 " License:  MIT License
 """
 
-
-from collections import OrderedDict
 
 try:
     import vim
