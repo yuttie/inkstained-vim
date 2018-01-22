@@ -22,31 +22,31 @@
 "     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 "     THE SOFTWARE.
 
-let s:base03       = ["#e4e2df", 254]  " DONE
-let s:base02       = ["#d6d4cf", 188]  " DONE
-let s:base01       = ["#c8c6c1", 251]  " DONE
+let s:base03       = ["#e4e2df", 254]
+let s:base02       = ["#d6d4cf", 188]
+let s:base01       = ["#c8c6c1", 251]
 let s:base00       = ["#b2b0ab", 145]
-let s:base1        = ["#929cad", 247]  " DONE
-let s:base2        = ["#697383", 243]  " DONE
-let s:base3        = ["#555f6f",  59]  " DONE
-let s:red01        = ["#edb8c4", 181]  " DONE
-let s:red1         = ["#aa586e", 132]  " DONE
-let s:teal01       = ["#cfd9d9", 188]  " DONE
-let s:teal2        = ["#608f8e",  66]  " DONE
-let s:cyan01       = ["#cbd7dc", 188]  " DONE
-let s:cyan1        = ["#59899c",  66]  " DONE
-let s:cyan2        = ["#4e7e91",  30]  " DONE
-let s:cyan3        = ["#7196a6", 109]  " DONE
-let s:blue1        = ["#56759a",  24]  " DONE
-let s:blue2        = ['#6b89b0',  67]  " DONE
-let s:blue3        = ['#809ec6', 110]  " DONE
-let s:violet1      = ["#7c6a93",  60]  " DONE
-let s:violet2      = ["#9784ae", 103]  " DONE
-let s:violet3      = ["#ac99c4", 146]  " DONE
-let s:magenta01    = ["#d9d3d6", 188]  " DONE
-let s:magenta1     = ["#b778a0", 132]  " DONE
-let s:magenta2     = ["#ce9dbb", 175]  " DONE
-let s:magenta3     = ["#dfb5ce", 218]  " DONE
+let s:base1        = ["#929cad", 247]
+let s:base2        = ["#697383", 243]
+let s:base3        = ["#555f6f",  59]
+let s:red01        = ["#edb8c4", 181]
+let s:red1         = ["#aa586e", 132]
+let s:teal01       = ["#cfd9d9", 188]
+let s:teal2        = ["#608f8e",  66]
+let s:cyan01       = ["#cbd7dc", 188]
+let s:cyan1        = ["#59899c",  66]
+let s:cyan2        = ["#4e7e91",  30]
+let s:cyan3        = ["#7196a6", 109]
+let s:blue1        = ["#56759a",  24]
+let s:blue2        = ['#6b89b0',  67]
+let s:blue3        = ['#809ec6', 110]
+let s:violet1      = ["#7c6a93",  60]
+let s:violet2      = ["#9784ae", 103]
+let s:violet3      = ["#ac99c4", 146]
+let s:magenta01    = ["#d9d3d6", 188]
+let s:magenta1     = ["#b778a0", 132]
+let s:magenta2     = ["#ce9dbb", 175]
+let s:magenta3     = ["#dfb5ce", 218]
 
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 let s:p.normal.left     = [ [ s:base03,   s:blue1    ], [ s:base03, s:blue2    ] ]
