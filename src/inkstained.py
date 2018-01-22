@@ -1,7 +1,7 @@
 HEADER = """" Name:     inkstained.vim --- Inkstained theme for Vim
 " Author:   Yuta Taniguchi <yuta.taniguchi.y.t@gmail.com>
 " URL:      https://github.com/yuttie/inkstained-vim
-" Version:  0.0.0
+" Version:  0.1.0
 " License:  MIT License
 """
 
