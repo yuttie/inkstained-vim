@@ -44,7 +44,7 @@ violet2      = ("#9784ae", 103)
 violet3      = ("#ac99c4", 146)
 magenta01    = ("#d9d3d6", 188)
 magenta1     = ("#b778a0", 132)
-magenta2     = ("#ce9dbb", 175)
+magenta2     = ("#bd8dab", 175)
 magenta3     = ("#dfb5ce", 218)
 
 
@@ -105,13 +105,13 @@ color['SpellCap']     = {                                                     'd
 color['SpellRare']    = {                                                     'deco': 'undercurl'}
 color['SpellLocal']   = {                                                     'deco': 'undercurl'}
 
-color['DiffAdd']      = {'fg': cyan1,            'bg': cyan01,                'deco': 'NONE'     }
-color['DiffChange']   = {'fg': magenta1,         'bg': magenta01,             'deco': 'NONE'     }
-color['DiffDelete']   = {'fg': magenta1,         'bg': magenta01,             'deco': 'NONE'     }
-color['DiffText']     = {'fg': magenta3,         'bg': magenta01,             'deco': 'bold'     }
+color['DiffAdd']      = {'fg': cyan1,            'bg': cyan01,                'deco': 'bold'     }
+color['DiffChange']   = {'fg': magenta2,         'bg': magenta01,             'deco': 'NONE'     }
+color['DiffDelete']   = {'fg': magenta2,         'bg': magenta01,             'deco': 'NONE'     }
+color['DiffText']     = {'fg': magenta1,         'bg': magenta01,             'deco': 'bold'     }
 
 color['diffAdded']    = {'fg': cyan1,            'bg': cyan01,                'deco': 'NONE'     }
-color['diffRemoved']  = {'fg': magenta1,         'bg': magenta01,             'deco': 'NONE'     }
+color['diffRemoved']  = {'fg': magenta2,         'bg': magenta01,             'deco': 'NONE'     }
 
 color['Directory']    = {'fg': teal2,                                         'deco': 'NONE'     }
 color['ErrorMsg']     = {'fg': red1,             'bg': 'NONE',                'deco': 'NONE'     }
@@ -125,8 +125,8 @@ color['ColorColumn']  = {'fg': 'NONE',           'bg': red01,                 'd
 
 # GitGutter
 color['GitGutterAdd']    = {'fg': cyan1,       'bg': color['SignColumn']['bg'], 'deco': 'bold'}
-color['GitGutterChange'] = {'fg': magenta1,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
-color['GitGutterDelete'] = {'fg': magenta1,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
+color['GitGutterChange'] = {'fg': magenta2,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
+color['GitGutterDelete'] = {'fg': magenta2,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
 
 # make
 color['makeIdent']      = 'Type'
