@@ -25,7 +25,8 @@
 let s:base03       = ["#e4e2df", 254]  " DONE
 let s:base02       = ["#d6d4cf", 188]  " DONE
 let s:base01       = ["#c8c6c1", 251]  " DONE
-let s:base00       = ["#929cad", 247]  " DONE
+let s:base00       = ["#b2b0ab", 145]
+let s:base1        = ["#929cad", 247]  " DONE
 let s:base2        = ["#697383", 243]  " DONE
 let s:base3        = ["#555f6f",  59]  " DONE
 let s:red01        = ["#edb8c4", 181]  " DONE
@@ -64,9 +65,9 @@ let s:p.replace.left    = [ [ s:base03,   s:magenta1 ], [ s:base03, s:magenta2 ]
 let s:p.replace.middle  = [ [ s:base03,   s:magenta3 ]                           ]
 let s:p.replace.right   = [ [ s:base03,   s:magenta1 ], [ s:base03, s:magenta2 ] ]
 
-let s:p.inactive.left   = [ [ s:base03,   s:base00   ], [ s:base03, s:base01   ] ]
+let s:p.inactive.left   = [ [ s:base03,   s:base1    ], [ s:base03, s:base01   ] ]
 let s:p.inactive.middle = [ [ s:base03,   s:base01   ]                           ]
-let s:p.inactive.right  = [ [ s:base03,   s:base00   ], [ s:base03, s:base01   ] ]
+let s:p.inactive.right  = [ [ s:base03,   s:base1    ], [ s:base03, s:base01   ] ]
 
 let s:p.normal.error    = [ [ s:red1,     s:base02   ]                           ]
 let s:p.normal.warning  = [ [ s:violet1,  s:base01   ]                           ]
