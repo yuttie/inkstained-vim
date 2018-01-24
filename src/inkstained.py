@@ -93,8 +93,8 @@ color['Todo']         = {'fg': base2,            'bg': base03,                'd
 
 color['IncSearch']    = {'fg': base03,           'bg': cyan1,                 'deco': 'bold'     }
 color['Search']       = {'fg': base03,           'bg': cyan2,                 'deco': 'NONE'     }
-color['Pmenu']        = {'fg': base2,            'bg': base02,                'deco': 'NONE'     }
-color['PmenuSel']     = {'fg': base3,            'bg': base01,                'deco': 'bold'     }
+color['Pmenu']        = {'fg': base2,            'bg': base01,                'deco': 'NONE'     }
+color['PmenuSel']     = {'fg': base3,            'bg': base00,                'deco': 'bold'     }
 color['PmenuSbar']    = {                        'bg': base02,                'deco': 'NONE'     }
 color['PmenuThumb']   = {                        'bg': base1,                 'deco': 'NONE'     }
 color['TabLine']      = {'fg': base2,            'bg': base03,                'deco': 'NONE'     }
