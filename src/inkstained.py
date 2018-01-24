@@ -44,8 +44,8 @@ violet1      = ("#7c6a93",  60)
 violet2      = ("#9784ae", 103)
 violet3      = ("#ac99c4", 146)
 magenta01    = ("#d9d3d6", 188)
-magenta1     = ("#b778a0", 132)
-magenta2     = ("#bd8dab", 175)
+magenta1     = ("#a05b89", 132)
+magenta2     = ("#aa7396", 175)
 magenta3     = ("#dfb5ce", 218)
 
 
