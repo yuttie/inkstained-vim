@@ -39,14 +39,14 @@ cyan2        = ("#4e8aa1",  66)
 cyan3        = ("#6f9db0", 109)
 blue1        = ("#56759a",  24)
 blue2        = ('#7593bb',  67)
-blue3        = ('#809ec6', 110)
+blue3        = ('#91a8c9', 110)
 violet1      = ("#7c6a93",  60)
 violet2      = ("#9784ae", 103)
 violet3      = ("#ac99c4", 146)
 magenta01    = ("#d9d3d6", 188)
 magenta1     = ("#a05b89", 132)
 magenta2     = ("#b0789b", 175)
-magenta3     = ("#dfb5ce", 218)
+magenta3     = ("#c190ae", 218)
 
 
 # Definitions
