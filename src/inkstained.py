@@ -126,9 +126,14 @@ color['WildMenu']     = {'fg': base3,            'bg': base1,                 'd
 color['ColorColumn']  = {'fg': 'NONE',           'bg': red01,                 'deco': 'NONE'     }
 
 # GitGutter
-color['GitGutterAdd']    = {'fg': cyan2,       'bg': color['SignColumn']['bg'], 'deco': 'bold'}
-color['GitGutterChange'] = {'fg': magenta2,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
-color['GitGutterDelete'] = {'fg': magenta2,    'bg': color['SignColumn']['bg'], 'deco': 'bold'}
+color['GitGutterAdd']              = {'fg': cyan2,    'bg': cyan01,    'deco': 'bold'}
+color['GitGutterChange']           = {'fg': violet2,  'bg': violet01,  'deco': 'bold'}
+color['GitGutterDelete']           = {'fg': magenta2, 'bg': magenta01, 'deco': 'bold'}
+color['GitGutterChangeDelete']     = {'fg': magenta2, 'bg': magenta01, 'deco': 'bold'}
+color['GitGutterAddLine']          = {'fg': cyan2,    'bg': cyan01,    'deco': 'NONE'}
+color['GitGutterChangeLine']       = {'fg': violet2,  'bg': violet01,  'deco': 'NONE'}
+color['GitGutterDeleteLine']       = {'fg': magenta2, 'bg': magenta01, 'deco': 'NONE'}
+color['GitGutterChangeDeleteLine'] = {'fg': magenta2, 'bg': magenta01, 'deco': 'NONE'}
 
 # make
 color['makeIdent']      = 'Type'
