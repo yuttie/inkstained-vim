@@ -1,6 +1,6 @@
 " Author:   Yuta Taniguchi <yuta.taniguchi.y.t@gmail.com>
 " URL:      https://github.com/yuttie/inkstained-vim
-" Version:  0.2.0
+" Version:  0.3.0
 " License:  The MIT License (MIT)
 "     Copyright (c) 2018 Yuta Taniguchi
 "
